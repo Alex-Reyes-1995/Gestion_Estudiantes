@@ -1,0 +1,10 @@
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\bin\Debug\Gestion_Estudiantes.exe.config
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\bin\Debug\Gestion_Estudiantes.exe
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\bin\Debug\Gestion_Estudiantes.pdb
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.csprojResolveAssemblyReference.cache
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.Form1.resources
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.Properties.Resources.resources
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.csproj.GenerateResource.Cache
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.exe
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.pdb
+C:\Users\ßlue\Desktop\UNACH\Gestion_Estudiantes\Gestion_Estudiantes\obj\Debug\Gestion_Estudiantes.Mostrar_Curso.resources
